@@ -1,0 +1,13 @@
+{
+  "chromiumSwitches": {},
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 297,
+    "y": 154,
+    "width": 1884,
+    "height": 1209
+  },
+  "audioSubsystem": "standard",
+  "useLegacyAudioDevice": false
+}
